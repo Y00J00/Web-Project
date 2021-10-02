@@ -413,16 +413,21 @@
 				<div class="d-flex d-block d-sm-flex review ">
 
 
-					<div class="text-block">
+					<div class="text-block" >
 					
 					
-						<br><br>
+						
 						<p class="text-muted" align="center">
-						<h6 align="center">예약 취소 약관 사항</h6>
-						<br><br>
-							예약 취소 시 변경이 불가능하며 재예약만 가능합니다.<br>
-							 예약 취소로 인한 불이익이 발생할 시 사용자가 부담해야 합니다.
-						</p>
+						
+						<div class="card">
+              <div class="card-body p-5"><strong class="text-uppercase text-secondary d-inline-block mb-2 text-sm"></strong>
+                <h6 class="mb-3">예약 취소 약관</h6>
+                <br>
+                <p class="text-muted">예약 취소 시 변경이 불가능하며 재예약만 가능합니다.<br>
+							 예약 취소로 인한 불이익이 발생할 시 사용자가 부담해야 합니다.</p>
+                <a class="btn btn-link p-0" href="post.html"> </a>
+              </div>
+            </div>
 						
 
 						<div class="mb-2">
@@ -433,9 +438,11 @@
 								</label>
 							</div>
 						</div>
-					</div>
+					
 				</div>
-<br><br><br><br>
+
+				</div>
+<br>
 <div align="left">
 			<button class="btn btn-outline-primary mb-4" type="submit">
 				<a href="예약내역 페이지">돌아가기</a>
