@@ -545,6 +545,11 @@
 						</div>
 					</div>
 				</div>
+			<div class="row2">
+			<button class="btn btn-outline-primary mb-4" type="submit"><a href="기본정보 출력 페이지">돌아가기</a></button>
+						<p>&emsp;&emsp;&emsp;</p>
+						<button class="btn btn-outline-primary mb-4" type="submit"><a href="기본 정보 출력 페이지">수정하기</a></button>
+			</div>
 			</div>
 		</div>
 
